@@ -1,7 +1,7 @@
 # Hi! My name is Cam.
 I'm a data and investigative reporter based out of Chicago, and you can usually find me trekking around the Midwest for business and pleasure.
 
-📰 **Right now**, I'm a Local Investigations Fellow at The New York Times. I'm a part of a team of reporters across the country digging into issues impacting their local markets, from their local markets. (In this case, it means that I'm working across the state of Illinois!)
+📰 **Right now**, I'm a Local Investigations Fellow at The New York Times. I'm a part of a team of reporters across the country digging into issues impacting their local markets, from their local markets. (In this case, it means that I'm working across the state of Illinois!) To get in touch with me, drop me a line at [cam.rodriguez@nytimes.com](mailto:cam.rodriguez@nytimes.com), especially if it's related to infrastructure, shipping and logistics, or just a tip/conspiracy theory/love letter/complaint.
 
 🔎 **Before that**, I was a data reporter at the [Illinois Answers Project](https://illinoisanswers.org/), a solutions-focused investigative newsroom published by the [Better Government Association](https://www.bettergov.org/)/@bettergov. There, I worked on a variety of stories, from enterprise investigations to data-driven deep dives. I also maintained the [Illinois Public Salaries Database](https://salary.illinoisanswers.org/), a FOIA-fueled tool that lets readers (like you!) sift through payroll information for over 1,000 agencies across the state.
 
